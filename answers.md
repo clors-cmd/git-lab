@@ -56,4 +56,41 @@ Date:   Tue Sep 1 16:45:44 2026 -0400
 
     Initial commit
 
-9) 
+9) On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   answers.md
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   answers.md
+
+10) Connor Lors
+clors-cmd
+
+11) Username for 'https://github.com': clors-cmd
+Password for 'https://clors-cmd@github.com':
+To https://github.com/clors-cmd/git-lab.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/clors-cmd/git-lab.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+12) changes were made
+
+Connor Lors
+clors-cmd
+CS2400 109
+
+13) .  ..  .git  .gitignore  README.md
+
+
+
+
+
